@@ -13,7 +13,9 @@
 2. They should also be able to add to the inventory a name of an ingredient, its price per unit, and how much of that item is available.
 3. They should be able to enter in a customer purchase of a menu item. When a customer purchases an item off the menu, the inventory should be modified to accommodate what happened, as well as recording the time that the purchase was made.
 
-Here are some helpful tips to get you started thinking about the project: Your ingredients, recipes, and purchase data should be stored in a database, and should be rendered back to the Django views. Your Django backend should supply endpoints to create new recipes via a form submission, submit customer purchases from a different form, and get information about the total cost of inventory, the total revenue for the day, the different purchases that were made, and how much inventory is required to restock (as an initial example) to render them into a Django view.
+## Here are some helpful tips to get me started thinking about the project: 
+* My ingredients, recipes, and purchase data should be stored in a database, and should be rendered back to the Django views. 
+* My Django backend should supply endpoints to create new recipes via a form submission, submit customer purchases from a different form, and get information about the total cost of inventory, the total revenue for the day, the different purchases that were made, and how much inventory is required to restock (as an initial example) to render them into a Django view.
 
 ## Project Requirements
 * Build an inventory and sales application using Django
