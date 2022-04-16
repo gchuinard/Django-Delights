@@ -7,7 +7,7 @@
 * A log of all Purchases made at the restaurant
 
 
-##Knowing that information, the restaurant, Django Delights’ owner has asked for the following features:
+## Knowing that information, the restaurant, Django Delights’ owner has asked for the following features:
 
 1. They should be able to enter in new recipes along with their recipe requirements, and how much that menu item costs.
 2. They should also be able to add to the inventory a name of an ingredient, its price per unit, and how much of that item is available.
